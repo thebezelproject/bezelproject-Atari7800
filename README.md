@@ -10,4 +10,3 @@ The bezel packs are used in a RetroPie build for providing game bezels.
 The graphics in this repository follow the following design.
 
 ![Sample bezel](https://github.com/thebezelproject/bezelproject-Atari7800/blob/master/retroarch/overlay/GameBezels/Atari7800/Ace%20of%20Aces%20(USA).png?raw=true)
-https://github.com/thebezelproject/bezelproject-Atari7800/blob/master/retroarch/overlay/GameBezels/Atari7800/Ace%20of%20Aces%20(USA).png
